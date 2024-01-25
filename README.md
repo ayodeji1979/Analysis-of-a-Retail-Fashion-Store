@@ -14,7 +14,7 @@ The project involved a detailed analysis of a retail fashion dataset, which incl
 The combination of these tools and techniques allowed for a thorough and insightful analysis of the fashion retail data, ultimately aimed at driving informed decision-making for the company.
 
 ## Aim and Objectives
-- To perform data cleaning and pre-processing.
+- To perform data preparation and pre-processing.
 -	To merge the two datasets.
 -	To identify customer behaviour based on culture.
 -	To identify customer preferences based on colour.
